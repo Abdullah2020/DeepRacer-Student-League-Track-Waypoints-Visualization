@@ -32,7 +32,7 @@ Before running the notebook, ensure you have the following installed:
 
 ## Usage
 
-To run the notebook, open it in a Jupyter environment and execute the code cells. The main function, `track_show()`, visualizes the track waypoints, allowing you to analyze the track layout.
+To run the notebook, open it in a Jupyter environment and execute the code cells. The main function, `track_display()`, visualizes the track waypoints, allowing you to analyze the track layout.
 
 ## Sample Output
 
