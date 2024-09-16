@@ -38,4 +38,4 @@ To run the notebook, open it in a Jupyter environment and execute the code cells
 
 Below is a sample visualization of the Austin track's waypoints:
 
-![Austin Track Waypoints](images/austin_track.png)
+![Austin Track Waypoints](image/austin_track.png)
